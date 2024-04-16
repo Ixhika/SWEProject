@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190852881654",
+    "project_id": "swelab-a7788",
+    "storage_bucket": "swelab-a7788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190852881654:android:1e9bd267f7de091c1420d7",
+        "android_client_info": {
+          "package_name": "com.example.sweproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChxG_DgW8IqF9pIyZf-katbWa_cyYGrEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
